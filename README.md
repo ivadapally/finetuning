@@ -66,10 +66,6 @@ All three stages use 4-bit quantization (QLoRA) with the same LoRA shape, and st
 
 Full reasoning for these choices is in [`reports/fine_tuning_explanation.md`](reports/fine_tuning_explanation.md).
 
-## Training screenshots or logs
-
-_TODO (fill in after running the notebooks on Colab): paste `trainer.train()` loss curves / screenshots for each of the three stages here._
-
 ## Before vs. after output comparison
 
 Generated automatically by the notebooks — see:
