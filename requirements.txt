@@ -5,6 +5,7 @@ pandas>=2.0.0
 
 # Training/inference dependencies - install these on the GPU runtime
 # (e.g. Google Colab) that runs the notebooks and src/inference.py.
+pyarrow==14.0.1
 unsloth
 torch>=2.1.0
 transformers>=4.40.0
